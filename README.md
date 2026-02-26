@@ -22,7 +22,6 @@ This project implements an advanced **stacking ensemble machine learning model**
 - **Problem Type**: Binary Classification  
 
 ---
-
 ## ⚙️ Tech Stack
 - **Programming Language**: Python  
 - **Libraries Used**:
